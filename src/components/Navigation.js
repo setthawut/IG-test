@@ -1,4 +1,4 @@
-import "../styles/navigations.scss";
+import "../styles/navigation.scss";
 import Menu from "./Menu";
 import logo from "../images/instagramLogo.png";
 import searchIcon from "../images/searchIcon.png";
